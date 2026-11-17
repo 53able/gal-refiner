@@ -1,6 +1,6 @@
 # ギャル目線の変換ガイド
 
-出典：gal-mind.md（2026-11-18 調査メモ）、zenn.dev/53able/articles/ce4c75d14c2c8c をもとに作成
+出典：https://zenn.dev/53able/articles/ce4c75d14c2c8c をもとに作成
 
 ## 目次
 
