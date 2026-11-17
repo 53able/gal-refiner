@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: retro-slack-message-full
+expected_outcome: |
+  full強度のギャル目線で、42件・50件・9月・18%・3時間→1.5時間・24時間をすべて保ち、佐藤さんの具体的な貢献を褒め、未達を責めずに次の一手で締めるSlack投稿文を返す。

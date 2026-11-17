@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: research-summary-keeps-caveats
+expected_outcome: |
+  数値・出典リンク・留保（因果効果は未確認、5名の探索的試用など）を保ったまま、medium程度のギャル目線で読みやすく書き直したファイルを作る。
+context:
+  scaffold_script: place-files.sh
